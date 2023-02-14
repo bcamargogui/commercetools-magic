@@ -13,20 +13,23 @@ This repository contains all the necessary components to create and deploy a fun
   - Cloud Function
 
 ## Requirements
-- ![commercetools Composable Commerce Project](https://docs.commercetools.com/getting-started/)
-  - ![API Client](https://docs.commercetools.com/getting-started/create-api-client) with manage_products scope (for app)
+- [commercetools Composable Commerce Project](https://docs.commercetools.com/getting-started/)
+  - [API Client](https://docs.commercetools.com/getting-started/create-api-client) with manage_products scope (for app)
   - API Client with manage_project scope (for Terraform)
-- ![OpenAI API Key](https://help.openai.com/en/articles/4936850-where-do-i-find-my-secret-api-key)
-- nodejs 18
-- ![gcloud tools](https://cloud.google.com/sdk/docs/install)
-- ![Terraform](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli)
-- ![Google Cloud Account & Project](https://console.cloud.google.com/)
+- [OpenAI API Key](https://help.openai.com/en/articles/4936850-where-do-i-find-my-secret-api-key)
+- [nodejs 18](https://nodejs.org/en/download/)
+- [gcloud tools](https://cloud.google.com/sdk/docs/install)
+- [Terraform](https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli)
+- [Google Cloud Account & Project](https://console.cloud.google.com/)
 
 ## commercetools Setup
 Running the Terraform setup will create the following in commercetools Composable Commerce:
   ![product-type](assets/OpenAI-Product-Type.png)
 
 ## Configuration
+### Environment Variables
+
+###
 
 ## Deployment
 
