@@ -6,8 +6,8 @@ https://user-images.githubusercontent.com/79161219/218758219-12ed0eb9-0ca3-4ee9-
 This repository contains all the necessary components to create and deploy a functioning example of integrating commercetools Composable Commerce with OpenAI. Including:
 - commercetools configuration
   - Product Type (includes attributes to prompt OpenAI with keywords and tone for product description context)
-  - Product States and Transitions (identify and automate products which are ready for a generated desription)
-  - Subscription (automates the call to the processing )
+  - Product States and Transitions (identify and automate products which are ready for a generated description)
+  - Subscription (automates the call to the processing)
 - Google Cloud components
   - Pub/Sub Topic and Subscription
   - Cloud Function
